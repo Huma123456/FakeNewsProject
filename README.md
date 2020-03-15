@@ -11,9 +11,13 @@ time for it during our FINAL YEAR PROJECT:)
   4.Random Forest
   5.Decision Tree
   
-Then after an ensemble file is produced using above 5 agorithmic files having extension '.py'
+Then after an ensemble file is produced using above 5 agorithmic files having name "ensembled".
+
+There are 2 directories for the project files, In which format you like the code ,files are being uploaded :)
 
 ---------------------------For more details, have a look at my Youtube Channel--------------------
 https://www.youtube.com/playlist?list=PLrjJjRRSflKss7FNMkDCNh9rnEEjV0O6i
 
-REGARDS
+Happy CODING;)
+
+REGARDS!!!!!!
