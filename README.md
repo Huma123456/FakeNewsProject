@@ -4,7 +4,7 @@ Includes all details from basic 'bag of words' to determining accuracies using e
 Consists of 5 classifiers and then ensembled to make a hybrid classifier. We have also decided to use a webcrawler if we found some 
 time for it during our FINAL YEAR PROJECT:) 
 
-Till now Different Machine Learning Algorithms have been applied including
+--------Till now Different Machine Learning Algorithms have been applied including---------------
   1.KNN
   2.Naive Bayes
   3.SVM
