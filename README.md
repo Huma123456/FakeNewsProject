@@ -13,7 +13,7 @@ Till now Different Machine Learning Algorithms have been applied including
   
 Then after an ensemble file is produced using above 5 agorithmic files having extension '.py'
 
-For more details, have a look at my Youtube Channel
+##########For more details, have a look at my Youtube Channel##########
 https://www.youtube.com/playlist?list=PLrjJjRRSflKss7FNMkDCNh9rnEEjV0O6i
 
 REGARDS
